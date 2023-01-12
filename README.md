@@ -1,3 +1,5 @@
+CPTS 360 Linux Emmulator Shell
+
 NAME: Collin Nelson ID: 11694205  NAME: Anna Ueti ID: 11629998
 
 0. Do EECS online course evaluation. 
